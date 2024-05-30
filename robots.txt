@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://smersect.github.io/a/sitemap.html
+Sitemap: https://smersect.github.io/b/sitemap.html
+Sitemap: https://smersect.github.io/c/sitemap.html
+Sitemap: https://smersect.github.io/d/sitemap.html
